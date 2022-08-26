@@ -2,7 +2,7 @@
 <html>
 
 <body>
-
+<img src="https://sharvielectronics.com/wp-content/uploads/2022/08/E38S6G5-600B-G24N-Photoelectric-Incremental-Rotary-Encoder-Sharvielectronics-1.jpg" alt="Trulli" width="500" height="333">
 <h2>Power and Input Terminal Assignments:</h2>
 
 <table style="width:100%">
